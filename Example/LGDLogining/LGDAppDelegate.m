@@ -7,12 +7,13 @@
 //
 
 #import "LGDAppDelegate.h"
-
+#import "LGDNetVC.h"
 @implementation LGDAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    LGDNetVC *vc = LGDNetVC.new;
     return YES;
 }
 

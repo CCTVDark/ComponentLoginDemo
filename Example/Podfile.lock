@@ -1,0 +1,33 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - LGDLogining (0.1.0):
+    - LGDNetworking
+  - LGDNetworking (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - LGDLogining (from `../`)
+  - LGDNetworking (from `../../LGDNetworking`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  LGDLogining:
+    :path: "../"
+  LGDNetworking:
+    :path: "../../LGDNetworking"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  LGDLogining: 6967222abe0d967f9803606dd96afafcd51c6966
+  LGDNetworking: 11c1f37efbace4f6ec6a9396417085e058c8b709
+
+PODFILE CHECKSUM: 873cb1d34f2e28769447940200780775e2a5c989
+
+COCOAPODS: 1.9.3

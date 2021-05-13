@@ -1,0 +1,6 @@
+framework module LGDLogining {
+  umbrella header "LGDLogining-umbrella.h"
+
+  export *
+  module * { export * }
+}
