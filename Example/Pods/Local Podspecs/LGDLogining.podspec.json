@@ -1,9 +1,9 @@
 {
   "name": "LGDLogining",
   "version": "0.1.0",
-  "summary": "A short description of LGDLogining.",
+  "summary": "LGDLogining for demo",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/刘国栋/LGDLogining",
+  "homepage": "https://github.com/CCTVDark/ComponentLoginDemo.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "刘国栋": "guodong.liu@daddylab.com"
   },
   "source": {
-    "git": "https://github.com/刘国栋/LGDLogining.git",
+    "git": "https://github.com/CCTVDark/ComponentLoginDemo.git",
     "tag": "0.1.0"
   },
   "platforms": {

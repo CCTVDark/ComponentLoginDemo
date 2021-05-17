@@ -7,44 +7,44 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00224C929D57F45B70E87359E719948D /* FBSnapshotTestCase.h in Headers */ = {isa = PBXBuildFile; fileRef = FEE661E58CA6655B39AA49AA4C021C33 /* FBSnapshotTestCase.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		07F6C0CD3BAF35CBDAF88409B61CE7B6 /* LGDNetworking-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C3309BB3D5755A727A8B9C43D3866531 /* LGDNetworking-dummy.m */; };
-		090183097712C66B5C46510A21BA9BC9 /* LGDLogining-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 9FFF439FF656707B9C67E0220017638A /* LGDLogining-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		00224C929D57F45B70E87359E719948D /* FBSnapshotTestCase.h in Headers */ = {isa = PBXBuildFile; fileRef = 7046FC5B3F8266A95EB7F2A5A1D54DD2 /* FBSnapshotTestCase.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		07F6C0CD3BAF35CBDAF88409B61CE7B6 /* LGDNetworking-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7FC0FD57A1849A2E7159065638BDA701 /* LGDNetworking-dummy.m */; };
+		090183097712C66B5C46510A21BA9BC9 /* LGDLogining-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 11099F820B334C7808D80DA6B9EB57DF /* LGDLogining-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		09CB6D9593B11C0DF56701777E33D5DE /* Pods-LGDLogining_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = FEEC0E99D084003BF1418C29C3153ECC /* Pods-LGDLogining_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0B35023D7BF6DD37E0FAEEB105D94F7A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2665DB9DDD59BFF9C1E64D9933F67F41 /* Foundation.framework */; };
-		11C410135C7E89353B480AC8DE0BFB77 /* UIApplication+StrictKeyWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F538C426803AE34255FC6E35B408CCA /* UIApplication+StrictKeyWindow.m */; };
-		14AD81D52FAD9CF2C065C61FB00C3B4F /* UIImage+Diff.m in Sources */ = {isa = PBXBuildFile; fileRef = 4568279DE47DC3AB91598E1317503995 /* UIImage+Diff.m */; };
+		11C410135C7E89353B480AC8DE0BFB77 /* UIApplication+StrictKeyWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D67F8455B5A2747D0CC21CC6D519256 /* UIApplication+StrictKeyWindow.m */; };
+		14AD81D52FAD9CF2C065C61FB00C3B4F /* UIImage+Diff.m in Sources */ = {isa = PBXBuildFile; fileRef = BDB7130AED3D6452BAE5B5FC75D51386 /* UIImage+Diff.m */; };
 		14C511527597E5846AB2627F791C7D8E /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 82B844736961B64D6B357E95A345EEC3 /* QuartzCore.framework */; };
 		1B975DA79E57CE0E79135B1EECBCDC68 /* Pods-LGDLogining_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 05CF14042F8EF29B553FCEDEA83E4F83 /* Pods-LGDLogining_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		29BCBFC267E9EDA98A7D4E16C5368CAD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2665DB9DDD59BFF9C1E64D9933F67F41 /* Foundation.framework */; };
-		2DCFF0CE0BD295F1D46D3247F36B192C /* UIImage+Compare.m in Sources */ = {isa = PBXBuildFile; fileRef = 235A78CFFA6D8B8D86CACD733531CB13 /* UIImage+Compare.m */; };
-		40039E0AF0D764360B1D4FC4F7950D2E /* UIApplication+StrictKeyWindow.h in Headers */ = {isa = PBXBuildFile; fileRef = 99A67367E018411D614EC8536A8A1C5B /* UIApplication+StrictKeyWindow.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		2DCFF0CE0BD295F1D46D3247F36B192C /* UIImage+Compare.m in Sources */ = {isa = PBXBuildFile; fileRef = 142BC4CE138DDFEABE1293E0B6D0326C /* UIImage+Compare.m */; };
+		40039E0AF0D764360B1D4FC4F7950D2E /* UIApplication+StrictKeyWindow.h in Headers */ = {isa = PBXBuildFile; fileRef = D6EFDC18C3CCDF665FE0A66620764042 /* UIApplication+StrictKeyWindow.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		4222CFD733D818F42A283A5B0005D8B8 /* Pods-LGDLogining_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F55606172CD175D8B9A61099C5C470B9 /* Pods-LGDLogining_Tests-dummy.m */; };
 		47EC74EE54E5E32295791977CF7B105F /* LGDNetworking.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ABE0DB29A049DD14A528DDFCEE9C37E1 /* LGDNetworking.framework */; };
-		63CF150F1F2C95813ADE50DAA1BC0233 /* LGDLogining-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 466F07BBB299C73D8BBC025E21FE5108 /* LGDLogining-dummy.m */; };
+		63CF150F1F2C95813ADE50DAA1BC0233 /* LGDLogining-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D9D6B8D6BC99EF670079E5DBC4FA3CA /* LGDLogining-dummy.m */; };
 		6AE239C5D116E1C06F5705699FB9EAF0 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4755737041AB5D34A444E949D4E0F157 /* XCTest.framework */; };
-		6DBC8EB7532E931C2FBDA71D1E0B66A4 /* FBSnapshotTestCase-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ADA6E655DC84D06359BD0ED5E36C783 /* FBSnapshotTestCase-dummy.m */; };
-		735727E3114250AE961C97F3EC6DD0D9 /* LoginVC.h in Headers */ = {isa = PBXBuildFile; fileRef = D095EA38D1455986487A0E3BE90BA164 /* LoginVC.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		88396E68DC05A379282F3B374F75F43C /* FBSnapshotTestController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E1B7EA746BF6557FD565BAE12AF9198 /* FBSnapshotTestController.m */; };
+		6DBC8EB7532E931C2FBDA71D1E0B66A4 /* FBSnapshotTestCase-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DA026580FB707D18EAD4825979DD2B4D /* FBSnapshotTestCase-dummy.m */; };
+		735727E3114250AE961C97F3EC6DD0D9 /* LoginVC.h in Headers */ = {isa = PBXBuildFile; fileRef = 59B37A825445F412CD3F5799047AE134 /* LoginVC.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		88396E68DC05A379282F3B374F75F43C /* FBSnapshotTestController.m in Sources */ = {isa = PBXBuildFile; fileRef = 741A49CB92840AA8F8D2D0D02D003FBC /* FBSnapshotTestController.m */; };
 		8967D99DD2286526A7EF2B6DBCD7F6CA /* Pods-LGDLogining_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 594407CF4C55377431CB4E9CF5938F7E /* Pods-LGDLogining_Example-dummy.m */; };
-		8CE3BF0ACE07EA42DD5DAC871BF4B767 /* FBSnapshotTestCase.m in Sources */ = {isa = PBXBuildFile; fileRef = 277B6BE10C665F515606A22FD60C6DCC /* FBSnapshotTestCase.m */; };
-		90142C6259374E18E640396A59AD379A /* FBSnapshotTestController.h in Headers */ = {isa = PBXBuildFile; fileRef = AE9FF9459FBCDC4AF88FB6B5A4CC1439 /* FBSnapshotTestController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8CE3BF0ACE07EA42DD5DAC871BF4B767 /* FBSnapshotTestCase.m in Sources */ = {isa = PBXBuildFile; fileRef = C9694FEA5CA57EDF0EFA31AF5599A783 /* FBSnapshotTestCase.m */; };
+		90142C6259374E18E640396A59AD379A /* FBSnapshotTestController.h in Headers */ = {isa = PBXBuildFile; fileRef = B0B23656CF76F93A00511CB91064F04D /* FBSnapshotTestController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		91747D4DC6177E436D5803DF191C9923 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2665DB9DDD59BFF9C1E64D9933F67F41 /* Foundation.framework */; };
-		939B7EB51799B9C6DAD9C20EB4537632 /* LGDNetworking-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 5EBE9D6674CABBD543685C0D1D99DA0C /* LGDNetworking-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		9512737EFAEEBECD645841B74474EACB /* LGDNetVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 47DEA1C46A8F33EF79D8A55879A54A66 /* LGDNetVC.m */; };
-		9D65089019D558E5A9661F2DCAD20313 /* SwiftSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F0D66CF296ABBC57EC4D0452397E235 /* SwiftSupport.swift */; };
-		A525E29E0A8079B35B793D8A2B5FBDF2 /* UIImage+Snapshot.m in Sources */ = {isa = PBXBuildFile; fileRef = D872A3EE224412D4057C234FBC629F9C /* UIImage+Snapshot.m */; };
+		939B7EB51799B9C6DAD9C20EB4537632 /* LGDNetworking-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A1BCCAB8936516EFD5A1EBFC7BE9AE27 /* LGDNetworking-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9512737EFAEEBECD645841B74474EACB /* LGDNetVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 628BF53ABC8CD3B73571D76E8B1919E7 /* LGDNetVC.m */; };
+		9D65089019D558E5A9661F2DCAD20313 /* SwiftSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43C135AAA033B98C140EDCED2624A243 /* SwiftSupport.swift */; };
+		A525E29E0A8079B35B793D8A2B5FBDF2 /* UIImage+Snapshot.m in Sources */ = {isa = PBXBuildFile; fileRef = AAA7F024C948720591A8B194A4E514C7 /* UIImage+Snapshot.m */; };
 		B25D795BDC4F426BC01EFC911F368B81 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2665DB9DDD59BFF9C1E64D9933F67F41 /* Foundation.framework */; };
-		B74CD6E6EBEA0B642776BCB37850415D /* UIImage+Snapshot.h in Headers */ = {isa = PBXBuildFile; fileRef = 284833D18C244D2B42966B6EE425AA59 /* UIImage+Snapshot.h */; settings = {ATTRIBUTES = (Private, ); }; };
-		C49D52712466511E332C952834C81FE1 /* FBSnapshotTestCasePlatform.h in Headers */ = {isa = PBXBuildFile; fileRef = 88B1DEEBF6316A84D7413645212492FF /* FBSnapshotTestCasePlatform.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B74CD6E6EBEA0B642776BCB37850415D /* UIImage+Snapshot.h in Headers */ = {isa = PBXBuildFile; fileRef = F186F3B2A69A9EDB41BB2473F456036F /* UIImage+Snapshot.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		C49D52712466511E332C952834C81FE1 /* FBSnapshotTestCasePlatform.h in Headers */ = {isa = PBXBuildFile; fileRef = EA0DC495D7E6BB38ED78EAC39129F0EC /* FBSnapshotTestCasePlatform.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C6D3F8BEF327C7F724EB5BF0D8FE074C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2665DB9DDD59BFF9C1E64D9933F67F41 /* Foundation.framework */; };
-		C7FD03C886F76856972F38D4853B9001 /* LGDNetVC.h in Headers */ = {isa = PBXBuildFile; fileRef = DA85B3783A60ABCE5D165C752629F4D2 /* LGDNetVC.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D04AAC8B22E4A4DC4F39891C4E52F251 /* UIImage+Diff.h in Headers */ = {isa = PBXBuildFile; fileRef = 96187BF3038121CC146335E9FF0B0AFF /* UIImage+Diff.h */; settings = {ATTRIBUTES = (Private, ); }; };
-		D161351A9A74CB75519DFCB9161DB930 /* LoginVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 5364E36C2C21EA241FCA3B31D28BDC5B /* LoginVC.m */; };
+		C7FD03C886F76856972F38D4853B9001 /* LGDNetVC.h in Headers */ = {isa = PBXBuildFile; fileRef = ED8565218ED41BB2ED1CDFEBA354C3CD /* LGDNetVC.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D04AAC8B22E4A4DC4F39891C4E52F251 /* UIImage+Diff.h in Headers */ = {isa = PBXBuildFile; fileRef = D66D9CF7D9658A6E1A904010AB38F6F6 /* UIImage+Diff.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		D161351A9A74CB75519DFCB9161DB930 /* LoginVC.m in Sources */ = {isa = PBXBuildFile; fileRef = C5C0DABE9B030054DF20B4259EB32B64 /* LoginVC.m */; };
 		E0B8D095C732352C854D365B9E5B993D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C2C22071EDCFBA2CAC501CA8F399094 /* UIKit.framework */; };
-		E8AC509D18EBF21B1FEA909652A01108 /* FBSnapshotTestCasePlatform.m in Sources */ = {isa = PBXBuildFile; fileRef = 6ABB3EB3CCC5BCA82F40FE8DC87BB778 /* FBSnapshotTestCasePlatform.m */; };
-		F1AAAE00BB32B733B238E2B4E8424506 /* UIImage+Compare.h in Headers */ = {isa = PBXBuildFile; fileRef = 656116C8FA5458F45D4707110C9530EC /* UIImage+Compare.h */; settings = {ATTRIBUTES = (Private, ); }; };
-		F720FAF13A108CE6901E0A8B0580E1E8 /* FBSnapshotTestCase-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8E5923010B02074CAA9AAF6EA02D66AA /* FBSnapshotTestCase-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E8AC509D18EBF21B1FEA909652A01108 /* FBSnapshotTestCasePlatform.m in Sources */ = {isa = PBXBuildFile; fileRef = B1B2D4ABD4691718BE399C8889220FC9 /* FBSnapshotTestCasePlatform.m */; };
+		F1AAAE00BB32B733B238E2B4E8424506 /* UIImage+Compare.h in Headers */ = {isa = PBXBuildFile; fileRef = B8C8FEF84230AC66488250266464549E /* UIImage+Compare.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		F720FAF13A108CE6901E0A8B0580E1E8 /* FBSnapshotTestCase-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 90342CC55ADC34E3DAADEA44CFB1601B /* FBSnapshotTestCase-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -87,80 +87,77 @@
 
 /* Begin PBXFileReference section */
 		05CF14042F8EF29B553FCEDEA83E4F83 /* Pods-LGDLogining_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-LGDLogining_Example-umbrella.h"; sourceTree = "<group>"; };
-		0F538C426803AE34255FC6E35B408CCA /* UIApplication+StrictKeyWindow.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIApplication+StrictKeyWindow.m"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.m"; sourceTree = "<group>"; };
+		0A5E978ED8FFF9C7202806E1F08F1652 /* LGDNetworking.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LGDNetworking.debug.xcconfig; sourceTree = "<group>"; };
+		11099F820B334C7808D80DA6B9EB57DF /* LGDLogining-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LGDLogining-umbrella.h"; sourceTree = "<group>"; };
+		142BC4CE138DDFEABE1293E0B6D0326C /* UIImage+Compare.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Compare.m"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.m"; sourceTree = "<group>"; };
 		196CF88BD6488714403CEAA322C03186 /* LGDNetworking.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = LGDNetworking.framework; path = LGDNetworking.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		1ADA6E655DC84D06359BD0ED5E36C783 /* FBSnapshotTestCase-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FBSnapshotTestCase-dummy.m"; sourceTree = "<group>"; };
+		1D9D6B8D6BC99EF670079E5DBC4FA3CA /* LGDLogining-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "LGDLogining-dummy.m"; sourceTree = "<group>"; };
 		22BF558CA45EDA9D7924B2A0C380A7D7 /* Pods-LGDLogining_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LGDLogining_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		235A78CFFA6D8B8D86CACD733531CB13 /* UIImage+Compare.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Compare.m"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.m"; sourceTree = "<group>"; };
 		2665DB9DDD59BFF9C1E64D9933F67F41 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		277B6BE10C665F515606A22FD60C6DCC /* FBSnapshotTestCase.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCase.m; path = FBSnapshotTestCase/FBSnapshotTestCase.m; sourceTree = "<group>"; };
-		284833D18C244D2B42966B6EE425AA59 /* UIImage+Snapshot.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Snapshot.h"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.h"; sourceTree = "<group>"; };
-		3453681E294C8C0B3E8CC29E7BEF5F68 /* LGDNetworking.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LGDNetworking.debug.xcconfig; sourceTree = "<group>"; };
-		3E790709018F8C76725538C2EDE75D41 /* LGDLogining-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "LGDLogining-Info.plist"; sourceTree = "<group>"; };
-		3F0D66CF296ABBC57EC4D0452397E235 /* SwiftSupport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftSupport.swift; path = FBSnapshotTestCase/SwiftSupport.swift; sourceTree = "<group>"; };
+		3C4F003F48503B8CD05714A586810D4D /* LGDLogining.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LGDLogining.release.xcconfig; sourceTree = "<group>"; };
 		4372E69FBBAC7A90F76B588E24DDDA55 /* Pods-LGDLogining_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LGDLogining_Tests-Info.plist"; sourceTree = "<group>"; };
+		43C135AAA033B98C140EDCED2624A243 /* SwiftSupport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftSupport.swift; path = FBSnapshotTestCase/SwiftSupport.swift; sourceTree = "<group>"; };
 		43FF03C464812F929AE5EC082971FA5B /* Pods-LGDLogining_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-LGDLogining_Tests.modulemap"; sourceTree = "<group>"; };
-		4568279DE47DC3AB91598E1317503995 /* UIImage+Diff.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Diff.m"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.m"; sourceTree = "<group>"; };
-		466F07BBB299C73D8BBC025E21FE5108 /* LGDLogining-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "LGDLogining-dummy.m"; sourceTree = "<group>"; };
+		457B186B5F778476F31CF358071FF271 /* FBSnapshotTestCase-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-prefix.pch"; sourceTree = "<group>"; };
 		4755737041AB5D34A444E949D4E0F157 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		478FE69A4C45BE86793E7CA4064DB781 /* LGDLogining.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LGDLogining.debug.xcconfig; sourceTree = "<group>"; };
-		47DEA1C46A8F33EF79D8A55879A54A66 /* LGDNetVC.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LGDNetVC.m; path = LGDNetworking/Classes/LGDNetVC.m; sourceTree = "<group>"; };
-		4C6513B09838318BD763CFD5390D1DE0 /* FBSnapshotTestCase.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FBSnapshotTestCase.release.xcconfig; sourceTree = "<group>"; };
 		52E65EBCE1FAEF768CE9A8CEB0DC34AC /* Pods-LGDLogining_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LGDLogining_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		5364E36C2C21EA241FCA3B31D28BDC5B /* LoginVC.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LoginVC.m; path = LGDLogining/Classes/LoginVC.m; sourceTree = "<group>"; };
 		5906A2DF006E0A9487A5D81E7ABF57DA /* Pods-LGDLogining_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LGDLogining_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		594407CF4C55377431CB4E9CF5938F7E /* Pods-LGDLogining_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LGDLogining_Example-dummy.m"; sourceTree = "<group>"; };
+		59B37A825445F412CD3F5799047AE134 /* LoginVC.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LoginVC.h; path = LGDLogining/Classes/LoginVC.h; sourceTree = "<group>"; };
 		5C4F31330DFA99D699E4BDC8C3573D73 /* FBSnapshotTestCase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FBSnapshotTestCase.framework; path = FBSnapshotTestCase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		5EBE9D6674CABBD543685C0D1D99DA0C /* LGDNetworking-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LGDNetworking-umbrella.h"; sourceTree = "<group>"; };
 		61FD4D2FD515C61DD37BD31483B67BB6 /* Pods-LGDLogining_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LGDLogining_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		628BF53ABC8CD3B73571D76E8B1919E7 /* LGDNetVC.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LGDNetVC.m; path = LGDNetworking/Classes/LGDNetVC.m; sourceTree = "<group>"; };
 		62D5E639883D9AD7EA0DFBB15BB65CD8 /* Pods-LGDLogining_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LGDLogining_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		656116C8FA5458F45D4707110C9530EC /* UIImage+Compare.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Compare.h"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.h"; sourceTree = "<group>"; };
-		6ABB3EB3CCC5BCA82F40FE8DC87BB778 /* FBSnapshotTestCasePlatform.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCasePlatform.m; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.m; sourceTree = "<group>"; };
-		6BD735FCA09501C266F1C38C1601A473 /* LGDLogining.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = LGDLogining.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		6318CC5B3AD3813A17BAD1A4EBE87865 /* FBSnapshotTestCase.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FBSnapshotTestCase.debug.xcconfig; sourceTree = "<group>"; };
+		6D67F8455B5A2747D0CC21CC6D519256 /* UIApplication+StrictKeyWindow.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIApplication+StrictKeyWindow.m"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.m"; sourceTree = "<group>"; };
+		7046FC5B3F8266A95EB7F2A5A1D54DD2 /* FBSnapshotTestCase.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCase.h; path = FBSnapshotTestCase/FBSnapshotTestCase.h; sourceTree = "<group>"; };
+		71CA5EB7B5A150BD79527DD8E144B505 /* FBSnapshotTestCase.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = FBSnapshotTestCase.modulemap; sourceTree = "<group>"; };
+		737F74CA5AC23E9D61E193D76D4DC313 /* LGDNetworking.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = LGDNetworking.modulemap; sourceTree = "<group>"; };
 		73EBE371AB17F64F339C9FBB99D3A68B /* Pods-LGDLogining_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-LGDLogining_Example.modulemap"; sourceTree = "<group>"; };
-		7409B913F5C212A6C02A0504F496B2D3 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		75629FE6F7F3B2497AC6DEEF238D8B8E /* LGDNetworking-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LGDNetworking-prefix.pch"; sourceTree = "<group>"; };
-		7C941D808B13082B1ED279D853D6B29C /* LGDNetworking.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = LGDNetworking.modulemap; sourceTree = "<group>"; };
-		7E1B7EA746BF6557FD565BAE12AF9198 /* FBSnapshotTestController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestController.m; path = FBSnapshotTestCase/FBSnapshotTestController.m; sourceTree = "<group>"; };
+		741A49CB92840AA8F8D2D0D02D003FBC /* FBSnapshotTestController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestController.m; path = FBSnapshotTestCase/FBSnapshotTestController.m; sourceTree = "<group>"; };
+		77F6BE0D3E6187ADA35F141C2F616430 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		7BD096B9708A5ABCC577491DF7F236F0 /* LGDLogining.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LGDLogining.debug.xcconfig; sourceTree = "<group>"; };
+		7FC0FD57A1849A2E7159065638BDA701 /* LGDNetworking-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "LGDNetworking-dummy.m"; sourceTree = "<group>"; };
 		82B844736961B64D6B357E95A345EEC3 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/QuartzCore.framework; sourceTree = DEVELOPER_DIR; };
+		842A7B7517C45E23C648DF92109C3EC7 /* LGDLogining-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "LGDLogining-Info.plist"; sourceTree = "<group>"; };
 		85708518C633B7E57B35D8695C3F6A22 /* Pods-LGDLogining_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LGDLogining_Example.release.xcconfig"; sourceTree = "<group>"; };
 		85A5EA2AAE5AA0B5A72DE8E2CB34DA17 /* Pods-LGDLogining_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LGDLogining_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		88B1DEEBF6316A84D7413645212492FF /* FBSnapshotTestCasePlatform.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCasePlatform.h; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.h; sourceTree = "<group>"; };
 		8C2C22071EDCFBA2CAC501CA8F399094 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
-		8E5923010B02074CAA9AAF6EA02D66AA /* FBSnapshotTestCase-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-umbrella.h"; sourceTree = "<group>"; };
+		90342CC55ADC34E3DAADEA44CFB1601B /* FBSnapshotTestCase-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-umbrella.h"; sourceTree = "<group>"; };
 		91A88AC53DC4F646780ED82F7AC27CC7 /* Pods-LGDLogining_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LGDLogining_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		9468E867498BBAF36F9AFFE4845F8B09 /* FBSnapshotTestCase.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FBSnapshotTestCase.debug.xcconfig; sourceTree = "<group>"; };
-		96187BF3038121CC146335E9FF0B0AFF /* UIImage+Diff.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Diff.h"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.h"; sourceTree = "<group>"; };
-		99A67367E018411D614EC8536A8A1C5B /* UIApplication+StrictKeyWindow.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIApplication+StrictKeyWindow.h"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.h"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9FFF439FF656707B9C67E0220017638A /* LGDLogining-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LGDLogining-umbrella.h"; sourceTree = "<group>"; };
+		A1BCCAB8936516EFD5A1EBFC7BE9AE27 /* LGDNetworking-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LGDNetworking-umbrella.h"; sourceTree = "<group>"; };
+		AAA7F024C948720591A8B194A4E514C7 /* UIImage+Snapshot.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Snapshot.m"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.m"; sourceTree = "<group>"; };
 		ABE0DB29A049DD14A528DDFCEE9C37E1 /* LGDNetworking.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = LGDNetworking.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		AE9FF9459FBCDC4AF88FB6B5A4CC1439 /* FBSnapshotTestController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestController.h; path = FBSnapshotTestCase/FBSnapshotTestController.h; sourceTree = "<group>"; };
-		B2A149E102CF0C4A457BFC8486E1C4B4 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		B0B23656CF76F93A00511CB91064F04D /* FBSnapshotTestController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestController.h; path = FBSnapshotTestCase/FBSnapshotTestController.h; sourceTree = "<group>"; };
+		B1B2D4ABD4691718BE399C8889220FC9 /* FBSnapshotTestCasePlatform.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCasePlatform.m; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.m; sourceTree = "<group>"; };
+		B5B9FF9BF716B92B2928A792A8CEE4AA /* LGDLogining.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = LGDLogining.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		B5DCB8066493C0ACCF1AC191793DB849 /* LGDLogining.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = LGDLogining.framework; path = LGDLogining.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		B7103CA00AED20722C5B69CA5B4F6938 /* FBSnapshotTestCase-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "FBSnapshotTestCase-Info.plist"; sourceTree = "<group>"; };
+		B62BAF1061497FC2709B442CAA07ECB9 /* LGDNetworking-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "LGDNetworking-Info.plist"; sourceTree = "<group>"; };
+		B8C8FEF84230AC66488250266464549E /* UIImage+Compare.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Compare.h"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.h"; sourceTree = "<group>"; };
 		BA5C0FD7DDD1F242A414F4BB2E88E595 /* Pods-LGDLogining_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LGDLogining_Example-Info.plist"; sourceTree = "<group>"; };
 		BA87D43DB9906DFE7382CD108AEF1770 /* Pods_LGDLogining_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_LGDLogining_Example.framework; path = "Pods-LGDLogining_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		BD77D81B4D09F6DEC14B5776275AC4F7 /* LGDLogining.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = LGDLogining.modulemap; sourceTree = "<group>"; };
-		BE3229BA3CA009A45DC045FDDB68F864 /* LGDNetworking.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LGDNetworking.release.xcconfig; sourceTree = "<group>"; };
+		BDB7130AED3D6452BAE5B5FC75D51386 /* UIImage+Diff.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Diff.m"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.m"; sourceTree = "<group>"; };
 		C262B3E1D4AF75D4E0506D272B3DFAA0 /* Pods-LGDLogining_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LGDLogining_Example-frameworks.sh"; sourceTree = "<group>"; };
-		C3309BB3D5755A727A8B9C43D3866531 /* LGDNetworking-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "LGDNetworking-dummy.m"; sourceTree = "<group>"; };
-		CBFF6C5FD9C3A84274A9314D3E940B6E /* FBSnapshotTestCase.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = FBSnapshotTestCase.modulemap; sourceTree = "<group>"; };
+		C5C0DABE9B030054DF20B4259EB32B64 /* LoginVC.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LoginVC.m; path = LGDLogining/Classes/LoginVC.m; sourceTree = "<group>"; };
+		C9694FEA5CA57EDF0EFA31AF5599A783 /* FBSnapshotTestCase.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCase.m; path = FBSnapshotTestCase/FBSnapshotTestCase.m; sourceTree = "<group>"; };
+		CF3FA5B75D54E51955D1493DF3ED0DE1 /* FBSnapshotTestCase-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "FBSnapshotTestCase-Info.plist"; sourceTree = "<group>"; };
 		D0068EC057AB55D93AB70B7EB063C8D2 /* Pods_LGDLogining_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_LGDLogining_Tests.framework; path = "Pods-LGDLogining_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D08CEBB9BDD9EF7A662ECFC0305C169E /* FBSnapshotTestCase-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-prefix.pch"; sourceTree = "<group>"; };
-		D095EA38D1455986487A0E3BE90BA164 /* LoginVC.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LoginVC.h; path = LGDLogining/Classes/LoginVC.h; sourceTree = "<group>"; };
-		D57A9ACE9F82D9BBA26298F28A800E11 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		D5AE5DCFB29F409E0DE9710549B67B1F /* LGDNetworking-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "LGDNetworking-Info.plist"; sourceTree = "<group>"; };
-		D7AE3900223C2C28CF8A2ADC6B6D22E4 /* LGDLogining.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LGDLogining.release.xcconfig; sourceTree = "<group>"; };
-		D872A3EE224412D4057C234FBC629F9C /* UIImage+Snapshot.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Snapshot.m"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.m"; sourceTree = "<group>"; };
-		DA85B3783A60ABCE5D165C752629F4D2 /* LGDNetVC.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LGDNetVC.h; path = LGDNetworking/Classes/LGDNetVC.h; sourceTree = "<group>"; };
-		E6CF5BCCB36B38D72EA6F5B3A625C060 /* LGDLogining-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LGDLogining-prefix.pch"; sourceTree = "<group>"; };
-		F0A87179222540DFE42ACB0D3B7DE8C9 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		D010FA43DD7DF675BF0B4DAC141CADDB /* LGDLogining-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LGDLogining-prefix.pch"; sourceTree = "<group>"; };
+		D01941E92E676DD6B278A1DE54FC2CF1 /* LGDNetworking.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LGDNetworking.release.xcconfig; sourceTree = "<group>"; };
+		D66D9CF7D9658A6E1A904010AB38F6F6 /* UIImage+Diff.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Diff.h"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.h"; sourceTree = "<group>"; };
+		D6EFDC18C3CCDF665FE0A66620764042 /* UIApplication+StrictKeyWindow.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIApplication+StrictKeyWindow.h"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.h"; sourceTree = "<group>"; };
+		DA026580FB707D18EAD4825979DD2B4D /* FBSnapshotTestCase-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FBSnapshotTestCase-dummy.m"; sourceTree = "<group>"; };
+		E403B4DBD6930B83DB72D6931F4B1F83 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		E4FA6E3342774EA112DDCB8DB44E093B /* FBSnapshotTestCase.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FBSnapshotTestCase.release.xcconfig; sourceTree = "<group>"; };
+		EA0DC495D7E6BB38ED78EAC39129F0EC /* FBSnapshotTestCasePlatform.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCasePlatform.h; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.h; sourceTree = "<group>"; };
+		ED8565218ED41BB2ED1CDFEBA354C3CD /* LGDNetVC.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LGDNetVC.h; path = LGDNetworking/Classes/LGDNetVC.h; sourceTree = "<group>"; };
+		F186F3B2A69A9EDB41BB2473F456036F /* UIImage+Snapshot.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Snapshot.h"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.h"; sourceTree = "<group>"; };
+		F2A669E576A87106ED0D53D2E50D0377 /* LGDLogining.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = LGDLogining.modulemap; sourceTree = "<group>"; };
+		F3503BF716FA64A46BAD6167584F2A71 /* LGDNetworking-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LGDNetworking-prefix.pch"; sourceTree = "<group>"; };
 		F55606172CD175D8B9A61099C5C470B9 /* Pods-LGDLogining_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LGDLogining_Tests-dummy.m"; sourceTree = "<group>"; };
-		FEE661E58CA6655B39AA49AA4C021C33 /* FBSnapshotTestCase.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCase.h; path = FBSnapshotTestCase/FBSnapshotTestCase.h; sourceTree = "<group>"; };
 		FEEC0E99D084003BF1418C29C3153ECC /* Pods-LGDLogining_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-LGDLogining_Tests-umbrella.h"; sourceTree = "<group>"; };
 		FF5AB0D5B0EB5656122DBB89FD393D84 /* Pods-LGDLogining_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LGDLogining_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		FF9F7A5FE3C508A6E01725947D274545 /* LGDNetworking.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = LGDNetworking.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -211,6 +208,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		04BDB1F6A9DAD547207B7166E73C2BC4 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				B5B9FF9BF716B92B2928A792A8CEE4AA /* LGDLogining.podspec */,
+				E403B4DBD6930B83DB72D6931F4B1F83 /* LICENSE */,
+				77F6BE0D3E6187ADA35F141C2F616430 /* README.md */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
 		1AB2DEDDE032EE80D6EDCE2956E4AD03 /* iOS */ = {
 			isa = PBXGroup;
 			children = (
@@ -222,47 +229,44 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
-		1EE9A76FE9D2F9B8658C911CA94C6FF9 /* Pod */ = {
+		233A036BFF3A113520E2E6B172DD610F /* LGDLogining */ = {
 			isa = PBXGroup;
 			children = (
-				6BD735FCA09501C266F1C38C1601A473 /* LGDLogining.podspec */,
-				F0A87179222540DFE42ACB0D3B7DE8C9 /* LICENSE */,
-				D57A9ACE9F82D9BBA26298F28A800E11 /* README.md */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
-		24E1FA92A4E828794CD08F2D592A0D0D /* LGDLogining */ = {
-			isa = PBXGroup;
-			children = (
-				D095EA38D1455986487A0E3BE90BA164 /* LoginVC.h */,
-				5364E36C2C21EA241FCA3B31D28BDC5B /* LoginVC.m */,
-				1EE9A76FE9D2F9B8658C911CA94C6FF9 /* Pod */,
-				A32F5FE4CE9240D5330DCC1D775B952D /* Support Files */,
+				59B37A825445F412CD3F5799047AE134 /* LoginVC.h */,
+				C5C0DABE9B030054DF20B4259EB32B64 /* LoginVC.m */,
+				04BDB1F6A9DAD547207B7166E73C2BC4 /* Pod */,
+				9DAF1452CBAD01A9A8DA3E6E19F50493 /* Support Files */,
 			);
 			name = LGDLogining;
 			path = ../..;
 			sourceTree = "<group>";
 		};
-		4BA2479549DD918290454B1CDCD0B92B /* Core */ = {
+		35E6B9020E96873A32DADED3571057E4 /* FBSnapshotTestCase */ = {
 			isa = PBXGroup;
 			children = (
-				FEE661E58CA6655B39AA49AA4C021C33 /* FBSnapshotTestCase.h */,
-				277B6BE10C665F515606A22FD60C6DCC /* FBSnapshotTestCase.m */,
-				88B1DEEBF6316A84D7413645212492FF /* FBSnapshotTestCasePlatform.h */,
-				6ABB3EB3CCC5BCA82F40FE8DC87BB778 /* FBSnapshotTestCasePlatform.m */,
-				AE9FF9459FBCDC4AF88FB6B5A4CC1439 /* FBSnapshotTestController.h */,
-				7E1B7EA746BF6557FD565BAE12AF9198 /* FBSnapshotTestController.m */,
-				99A67367E018411D614EC8536A8A1C5B /* UIApplication+StrictKeyWindow.h */,
-				0F538C426803AE34255FC6E35B408CCA /* UIApplication+StrictKeyWindow.m */,
-				656116C8FA5458F45D4707110C9530EC /* UIImage+Compare.h */,
-				235A78CFFA6D8B8D86CACD733531CB13 /* UIImage+Compare.m */,
-				96187BF3038121CC146335E9FF0B0AFF /* UIImage+Diff.h */,
-				4568279DE47DC3AB91598E1317503995 /* UIImage+Diff.m */,
-				284833D18C244D2B42966B6EE425AA59 /* UIImage+Snapshot.h */,
-				D872A3EE224412D4057C234FBC629F9C /* UIImage+Snapshot.m */,
+				EF540EBFA2920EA8A3D076A01F8FC3AA /* Core */,
+				FA065EDE17E27B49C029B610AE595C04 /* Support Files */,
+				BE68AC34C662C7CB7D80A8977B5B8944 /* SwiftSupport */,
 			);
-			name = Core;
+			name = FBSnapshotTestCase;
+			path = FBSnapshotTestCase;
+			sourceTree = "<group>";
+		};
+		417C947BDA0C610A0A1A8B2814192451 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				233A036BFF3A113520E2E6B172DD610F /* LGDLogining */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		42CA53F0542E0CB9B7166369D874B923 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				35E6B9020E96873A32DADED3571057E4 /* FBSnapshotTestCase */,
+				D98AB36DE4347160154738634249DDDE /* LGDNetworking */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 		66945C630BFCDCB9CB1E3DD33788FC8C /* Pods-LGDLogining_Example */ = {
@@ -282,43 +286,6 @@
 			path = "Target Support Files/Pods-LGDLogining_Example";
 			sourceTree = "<group>";
 		};
-		7AB13133243900B031642CBD1D7CC681 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				7C941D808B13082B1ED279D853D6B29C /* LGDNetworking.modulemap */,
-				C3309BB3D5755A727A8B9C43D3866531 /* LGDNetworking-dummy.m */,
-				D5AE5DCFB29F409E0DE9710549B67B1F /* LGDNetworking-Info.plist */,
-				75629FE6F7F3B2497AC6DEEF238D8B8E /* LGDNetworking-prefix.pch */,
-				5EBE9D6674CABBD543685C0D1D99DA0C /* LGDNetworking-umbrella.h */,
-				3453681E294C8C0B3E8CC29E7BEF5F68 /* LGDNetworking.debug.xcconfig */,
-				BE3229BA3CA009A45DC045FDDB68F864 /* LGDNetworking.release.xcconfig */,
-			);
-			name = "Support Files";
-			path = "../LGDLogining/Example/Pods/Target Support Files/LGDNetworking";
-			sourceTree = "<group>";
-		};
-		87E8F557CD36DEABA427045F8B120308 /* LGDNetworking */ = {
-			isa = PBXGroup;
-			children = (
-				DA85B3783A60ABCE5D165C752629F4D2 /* LGDNetVC.h */,
-				47DEA1C46A8F33EF79D8A55879A54A66 /* LGDNetVC.m */,
-				8991B40910FAF8BABED14D2D5F4FD1D0 /* Pod */,
-				7AB13133243900B031642CBD1D7CC681 /* Support Files */,
-			);
-			name = LGDNetworking;
-			path = ../../../LGDNetworking;
-			sourceTree = "<group>";
-		};
-		8991B40910FAF8BABED14D2D5F4FD1D0 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				FF9F7A5FE3C508A6E01725947D274545 /* LGDNetworking.podspec */,
-				B2A149E102CF0C4A457BFC8486E1C4B4 /* LICENSE */,
-				7409B913F5C212A6C02A0504F496B2D3 /* README.md */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
 		8E61C5B156A60E49D5EBE5436E2E41DE /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -331,24 +298,16 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		906402ECC4C6C5EB58DD365FD2C64E92 /* SwiftSupport */ = {
+		9DAF1452CBAD01A9A8DA3E6E19F50493 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				3F0D66CF296ABBC57EC4D0452397E235 /* SwiftSupport.swift */,
-			);
-			name = SwiftSupport;
-			sourceTree = "<group>";
-		};
-		A32F5FE4CE9240D5330DCC1D775B952D /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				BD77D81B4D09F6DEC14B5776275AC4F7 /* LGDLogining.modulemap */,
-				466F07BBB299C73D8BBC025E21FE5108 /* LGDLogining-dummy.m */,
-				3E790709018F8C76725538C2EDE75D41 /* LGDLogining-Info.plist */,
-				E6CF5BCCB36B38D72EA6F5B3A625C060 /* LGDLogining-prefix.pch */,
-				9FFF439FF656707B9C67E0220017638A /* LGDLogining-umbrella.h */,
-				478FE69A4C45BE86793E7CA4064DB781 /* LGDLogining.debug.xcconfig */,
-				D7AE3900223C2C28CF8A2ADC6B6D22E4 /* LGDLogining.release.xcconfig */,
+				F2A669E576A87106ED0D53D2E50D0377 /* LGDLogining.modulemap */,
+				1D9D6B8D6BC99EF670079E5DBC4FA3CA /* LGDLogining-dummy.m */,
+				842A7B7517C45E23C648DF92109C3EC7 /* LGDLogining-Info.plist */,
+				D010FA43DD7DF675BF0B4DAC141CADDB /* LGDLogining-prefix.pch */,
+				11099F820B334C7808D80DA6B9EB57DF /* LGDLogining-umbrella.h */,
+				7BD096B9708A5ABCC577491DF7F236F0 /* LGDLogining.debug.xcconfig */,
+				3C4F003F48503B8CD05714A586810D4D /* LGDLogining.release.xcconfig */,
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/LGDLogining";
@@ -361,6 +320,21 @@
 				1AB2DEDDE032EE80D6EDCE2956E4AD03 /* iOS */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		B40DD976B236ED3942A9C1B2DF6B94E7 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				737F74CA5AC23E9D61E193D76D4DC313 /* LGDNetworking.modulemap */,
+				7FC0FD57A1849A2E7159065638BDA701 /* LGDNetworking-dummy.m */,
+				B62BAF1061497FC2709B442CAA07ECB9 /* LGDNetworking-Info.plist */,
+				F3503BF716FA64A46BAD6167584F2A71 /* LGDNetworking-prefix.pch */,
+				A1BCCAB8936516EFD5A1EBFC7BE9AE27 /* LGDNetworking-umbrella.h */,
+				0A5E978ED8FFF9C7202806E1F08F1652 /* LGDNetworking.debug.xcconfig */,
+				D01941E92E676DD6B278A1DE54FC2CF1 /* LGDNetworking.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/LGDNetworking";
 			sourceTree = "<group>";
 		};
 		B48BA5256A0DBB0CA60A025EA0FEA4DE /* Pods-LGDLogining_Tests */ = {
@@ -380,59 +354,35 @@
 			path = "Target Support Files/Pods-LGDLogining_Tests";
 			sourceTree = "<group>";
 		};
-		B69B2ECE2D2C9A3924A9231138CE0BBC /* Support Files */ = {
+		BE68AC34C662C7CB7D80A8977B5B8944 /* SwiftSupport */ = {
 			isa = PBXGroup;
 			children = (
-				CBFF6C5FD9C3A84274A9314D3E940B6E /* FBSnapshotTestCase.modulemap */,
-				1ADA6E655DC84D06359BD0ED5E36C783 /* FBSnapshotTestCase-dummy.m */,
-				B7103CA00AED20722C5B69CA5B4F6938 /* FBSnapshotTestCase-Info.plist */,
-				D08CEBB9BDD9EF7A662ECFC0305C169E /* FBSnapshotTestCase-prefix.pch */,
-				8E5923010B02074CAA9AAF6EA02D66AA /* FBSnapshotTestCase-umbrella.h */,
-				9468E867498BBAF36F9AFFE4845F8B09 /* FBSnapshotTestCase.debug.xcconfig */,
-				4C6513B09838318BD763CFD5390D1DE0 /* FBSnapshotTestCase.release.xcconfig */,
+				43C135AAA033B98C140EDCED2624A243 /* SwiftSupport.swift */,
 			);
-			name = "Support Files";
-			path = "../Target Support Files/FBSnapshotTestCase";
-			sourceTree = "<group>";
-		};
-		BD2D60DE56CBB8C87BA07E0C1CCD0592 /* FBSnapshotTestCase */ = {
-			isa = PBXGroup;
-			children = (
-				4BA2479549DD918290454B1CDCD0B92B /* Core */,
-				B69B2ECE2D2C9A3924A9231138CE0BBC /* Support Files */,
-				906402ECC4C6C5EB58DD365FD2C64E92 /* SwiftSupport */,
-			);
-			name = FBSnapshotTestCase;
-			path = FBSnapshotTestCase;
-			sourceTree = "<group>";
-		};
-		C5ED7A59635B0EB2B83774162CAC518E /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				24E1FA92A4E828794CD08F2D592A0D0D /* LGDLogining */,
-				87E8F557CD36DEABA427045F8B120308 /* LGDNetworking */,
-			);
-			name = "Development Pods";
+			name = SwiftSupport;
 			sourceTree = "<group>";
 		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				C5ED7A59635B0EB2B83774162CAC518E /* Development Pods */,
+				417C947BDA0C610A0A1A8B2814192451 /* Development Pods */,
 				A5B927E5D272F803CA9CBFB4BF74F4F7 /* Frameworks */,
-				E81A37DBDE41E671312C56736544E2FA /* Pods */,
+				42CA53F0542E0CB9B7166369D874B923 /* Pods */,
 				8E61C5B156A60E49D5EBE5436E2E41DE /* Products */,
 				E91E92C09088550CA0BEDFEF410732C2 /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
-		E81A37DBDE41E671312C56736544E2FA /* Pods */ = {
+		D98AB36DE4347160154738634249DDDE /* LGDNetworking */ = {
 			isa = PBXGroup;
 			children = (
-				BD2D60DE56CBB8C87BA07E0C1CCD0592 /* FBSnapshotTestCase */,
+				ED8565218ED41BB2ED1CDFEBA354C3CD /* LGDNetVC.h */,
+				628BF53ABC8CD3B73571D76E8B1919E7 /* LGDNetVC.m */,
+				B40DD976B236ED3942A9C1B2DF6B94E7 /* Support Files */,
 			);
-			name = Pods;
+			name = LGDNetworking;
+			path = LGDNetworking;
 			sourceTree = "<group>";
 		};
 		E91E92C09088550CA0BEDFEF410732C2 /* Targets Support Files */ = {
@@ -442,6 +392,42 @@
 				B48BA5256A0DBB0CA60A025EA0FEA4DE /* Pods-LGDLogining_Tests */,
 			);
 			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		EF540EBFA2920EA8A3D076A01F8FC3AA /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				7046FC5B3F8266A95EB7F2A5A1D54DD2 /* FBSnapshotTestCase.h */,
+				C9694FEA5CA57EDF0EFA31AF5599A783 /* FBSnapshotTestCase.m */,
+				EA0DC495D7E6BB38ED78EAC39129F0EC /* FBSnapshotTestCasePlatform.h */,
+				B1B2D4ABD4691718BE399C8889220FC9 /* FBSnapshotTestCasePlatform.m */,
+				B0B23656CF76F93A00511CB91064F04D /* FBSnapshotTestController.h */,
+				741A49CB92840AA8F8D2D0D02D003FBC /* FBSnapshotTestController.m */,
+				D6EFDC18C3CCDF665FE0A66620764042 /* UIApplication+StrictKeyWindow.h */,
+				6D67F8455B5A2747D0CC21CC6D519256 /* UIApplication+StrictKeyWindow.m */,
+				B8C8FEF84230AC66488250266464549E /* UIImage+Compare.h */,
+				142BC4CE138DDFEABE1293E0B6D0326C /* UIImage+Compare.m */,
+				D66D9CF7D9658A6E1A904010AB38F6F6 /* UIImage+Diff.h */,
+				BDB7130AED3D6452BAE5B5FC75D51386 /* UIImage+Diff.m */,
+				F186F3B2A69A9EDB41BB2473F456036F /* UIImage+Snapshot.h */,
+				AAA7F024C948720591A8B194A4E514C7 /* UIImage+Snapshot.m */,
+			);
+			name = Core;
+			sourceTree = "<group>";
+		};
+		FA065EDE17E27B49C029B610AE595C04 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				71CA5EB7B5A150BD79527DD8E144B505 /* FBSnapshotTestCase.modulemap */,
+				DA026580FB707D18EAD4825979DD2B4D /* FBSnapshotTestCase-dummy.m */,
+				CF3FA5B75D54E51955D1493DF3ED0DE1 /* FBSnapshotTestCase-Info.plist */,
+				457B186B5F778476F31CF358071FF271 /* FBSnapshotTestCase-prefix.pch */,
+				90342CC55ADC34E3DAADEA44CFB1601B /* FBSnapshotTestCase-umbrella.h */,
+				6318CC5B3AD3813A17BAD1A4EBE87865 /* FBSnapshotTestCase.debug.xcconfig */,
+				E4FA6E3342774EA112DDCB8DB44E093B /* FBSnapshotTestCase.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/FBSnapshotTestCase";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -752,7 +738,7 @@
 /* Begin XCBuildConfiguration section */
 		2111D42704CFCA737AD236D03A18C325 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BE3229BA3CA009A45DC045FDDB68F864 /* LGDNetworking.release.xcconfig */;
+			baseConfigurationReference = D01941E92E676DD6B278A1DE54FC2CF1 /* LGDNetworking.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -784,7 +770,7 @@
 		};
 		441C7939108738A0C7CD37CBADE0B85E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9468E867498BBAF36F9AFFE4845F8B09 /* FBSnapshotTestCase.debug.xcconfig */;
+			baseConfigurationReference = 6318CC5B3AD3813A17BAD1A4EBE87865 /* FBSnapshotTestCase.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1039,7 +1025,7 @@
 		};
 		BE874B114A0991701B09229EAAA4CA84 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4C6513B09838318BD763CFD5390D1DE0 /* FBSnapshotTestCase.release.xcconfig */;
+			baseConfigurationReference = E4FA6E3342774EA112DDCB8DB44E093B /* FBSnapshotTestCase.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1071,7 +1057,7 @@
 		};
 		E6814F1744BF6E7143DA414B44AAA287 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3453681E294C8C0B3E8CC29E7BEF5F68 /* LGDNetworking.debug.xcconfig */;
+			baseConfigurationReference = 0A5E978ED8FFF9C7202806E1F08F1652 /* LGDNetworking.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1102,7 +1088,7 @@
 		};
 		E82ABDEB3D69910FC523BCDC09FE3C91 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = D7AE3900223C2C28CF8A2ADC6B6D22E4 /* LGDLogining.release.xcconfig */;
+			baseConfigurationReference = 3C4F003F48503B8CD05714A586810D4D /* LGDLogining.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1134,7 +1120,7 @@
 		};
 		F8A45719AF78235D39C2618E50DEB9C0 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 478FE69A4C45BE86793E7CA4064DB781 /* LGDLogining.debug.xcconfig */;
+			baseConfigurationReference = 7BD096B9708A5ABCC577491DF7F236F0 /* LGDLogining.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
